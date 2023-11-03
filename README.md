@@ -2,14 +2,28 @@
 
 ### Implemented simple feedforward network to compress the image 
 ### Initial model Results:-
-![](https://github.com/mayankysharma/Implicit-Neural-Representations/Results/simple_model.png)
+- Groung truth(left image) with the reconstruction image (right):-
+<p align="center">
+
+<img  alt="simple_model"  src="Results/simple_model.png"  width="100%" />
+
+</p>
 - Reported PSNR 27.7
 
 ### Outpainted Image (20 pixels)
-![](https://github.com/mayankysharma/Implicit-Neural-Representations/Results/outpainted.png)
+<p align="center">
+
+<img  alt="outpainted"  src="Results/outpainted.png"  width="200%" />
+
+</p>
+
 
 ### Improved model by using positional encoding
-![](https://github.com/mayankysharma/Implicit-Neural-Representations/Results/comparison.png)
+- Comparison of initial and Improved model with each other and ground truth:-
+<p align="center">
+<img  alt="comparison"  src="Results/comparison.png"  width="100%" />
+
+</p>
 - Reported PSNR 29.2 and better reconstruction
 
 ## References :-
