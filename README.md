@@ -2,29 +2,30 @@
 
 ### Implemented simple feedforward network to compress the image 
 ### Initial model Results:-
+- Reported PSNR 27.7
 - Groung truth(left image) with the reconstruction image (right):-
 <p align="center">
 
 <img  alt="simple_model"  src="Results/simple_model.png"  width="100%" />
-
 </p>
-- Reported PSNR 27.7
+
 
 ### Outpainted Image (20 pixels)
 <p align="center">
 
-<img  alt="outpainted"  src="Results/outpainted.png"  width="200%" />
+<img  alt="outpainted"  src="Results/outpainted.png"  width="100%" />
 
 </p>
 
 
 ### Improved model by using positional encoding
+-  Reported PSNR 29.2 and better reconstruction
 - Comparison of initial and Improved model with each other and ground truth:-
 <p align="center">
 <img  alt="comparison"  src="Results/comparison.png"  width="100%" />
 
 </p>
-- Reported PSNR 29.2 and better reconstruction
+
 
 ## References :-
 - [Fourier Features Let Networks Learn
