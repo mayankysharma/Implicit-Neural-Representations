@@ -13,7 +13,7 @@
 ### Outpainted Image (20 pixels)
 <p align="center">
 
-<img  alt="outpainted"  src="Results/outpainted.png"  width="100%" />
+<img  alt="outpainted"  src="Results/outpainted.png"  width="50%" />
 
 </p>
 
